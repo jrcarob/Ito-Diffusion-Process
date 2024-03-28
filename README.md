@@ -1,4 +1,4 @@
-# Itô Diffusion Process: A Stochastic process simulation in R
+# A Stochastic process simulation in R: The Itô Diffusion Process
 
 A *stochastic process* on the probability space $(\Omega, \mathcal{F}, \mathcal{P})$ is a family of random variables $X_t$ parameterized by $t\in\mathbf{T}$, where $\mathbf{T}\subset\mathbb{R}$. If $\mathbf{T}$ is an interval we say that $X_t$ is a stochastic process in _continuous time_. If $\mathbf{T}=\{1,2,3,ldots\}$ we shall say that $X_t$ is stochastic process in _discrete time_. 
 
