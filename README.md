@@ -8,6 +8,16 @@ Mathematically, the Itô process is often defined by the stochastic differential
 
 where:
 
+- $X_t$: represents the stochastic process at time $t$.
+
+- $\mu(t, X_t)$: is the drift term, representing the deterministic rate of change of the process.
+
+- $\sigma(t, X_t)$: is the diffusion term, representing the stochastic volatility or randomness of the process.
+
+- $dW_t$: is the increment of a Wiener process (Brownian motion), representing the random noise.
+
+This equation describes how the process $X_t$ evolves over time. The first term, $\mu(t, X_t)$ represents the deterministic part of the process, while the second term, $\sigma(t, X_t)$, represents the stochastic part.
+
 The applications of the Itô process in finance include:
 
 - **Option Pricing:** The Itô process is central to the Black-Scholes-Merton model for option pricing, where it is used to model the dynamics of asset prices.
