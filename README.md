@@ -30,6 +30,6 @@ The applications of the Itô process in finance include:
   
 - **Stochastic Differential Equations:** It serves as a foundation for studying more complex stochastic processes and their applications in finance, such as jump-diffusion models and stochastic volatility models.
 
-A simple simulation of the Itô diffusion process `ito_diffusion.R`
+A simple simulation of the Itô diffusion process can be found in the script `ito_process.R` which...
 
 ![ito_simulation](https://github.com/jrcarob/Ito-Diffusion-Process/assets/45860181/ff24ae7c-d8a6-46c7-a457-199321ae0544)
